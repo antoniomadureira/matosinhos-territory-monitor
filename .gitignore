@@ -1,0 +1,24 @@
+# Ficheiros Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Dados temporários
+dados_ods_backup.json
+*.log
+alerts_log.json
+config_notifications.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
