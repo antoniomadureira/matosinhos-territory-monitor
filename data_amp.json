@@ -1,0 +1,86 @@
+{
+  "Arouca": {
+    "populacao": 21379,
+    "densidade": 65,
+    "empresas": 1250,
+    "ganho_medio": 950
+  },
+  "Espinho": {
+    "populacao": 30988,
+    "densidade": 1451,
+    "empresas": 2800,
+    "ganho_medio": 1150
+  },
+  "Gondomar": {
+    "populacao": 164096,
+    "densidade": 1022,
+    "empresas": 8200,
+    "ganho_medio": 1100
+  },
+  "Maia": {
+    "populacao": 135306,
+    "densidade": 1645,
+    "empresas": 9500,
+    "ganho_medio": 1250
+  },
+  "Matosinhos": {
+    "populacao": 179558,
+    "densidade": 2838,
+    "empresas": 23152,
+    "ganho_medio": 1424
+  },
+  "Porto": {
+    "populacao": 237591,
+    "densidade": 5736,
+    "empresas": 35600,
+    "ganho_medio": 1580
+  },
+  "Póvoa de Varzim": {
+    "populacao": 63408,
+    "densidade": 769,
+    "empresas": 4100,
+    "ganho_medio": 1050
+  },
+  "Santa Maria da Feira": {
+    "populacao": 139312,
+    "densidade": 653,
+    "empresas": 12500,
+    "ganho_medio": 1150
+  },
+  "Santo Tirso": {
+    "populacao": 70520,
+    "densidade": 422,
+    "empresas": 5200,
+    "ganho_medio": 1080
+  },
+  "São João da Madeira": {
+    "populacao": 21713,
+    "densidade": 2576,
+    "empresas": 2900,
+    "ganho_medio": 1200
+  },
+  "Trofa": {
+    "populacao": 39305,
+    "densidade": 475,
+    "empresas": 3400,
+    "ganho_medio": 1100
+  },
+  "Valongo": {
+    "populacao": 94758,
+    "densidade": 1245,
+    "empresas": 4800,
+    "ganho_medio": 1150
+  },
+  "Vila do Conde": {
+    "populacao": 79533,
+    "densidade": 593,
+    "empresas": 5600,
+    "ganho_medio": 1100
+  },
+  "Vila Nova de Gaia": {
+    "populacao": 304149,
+    "densidade": 1781,
+    "empresas": 21800,
+    "ganho_medio": 1320
+  }
+}

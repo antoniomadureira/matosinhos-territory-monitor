@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "concelho": "Matosinhos",
+    "data_extracao": "2026-02-04T15:32:13.925421",
+    "fonte": "INE - Instituto Nacional de Estatística"
+  },
+  "indicadores": {
+    "populacao": {
+      "valor": "179 558",
+      "ano": "2023",
+      "unidade": "habitantes",
+      "ods": [
+        "ODS11"
+      ]
+    },
+    "taxa_natalidade": {
+      "valor": "7,2",
+      "ano": "2023",
+      "unidade": "‰",
+      "ods": [
+        "ODS3"
+      ]
+    },
+    "taxa_escolarizacao": {
+      "valor": "117,4",
+      "ano": "2022/2023",
+      "unidade": "%",
+      "ods": [
+        "ODS4"
+      ]
+    },
+    "populacao_65_mais": {
+      "valor": "65",
+      "ano": "2023",
+      "unidade": "%",
+      "ods": [
+        "ODS3",
+        "ODS10"
+      ]
+    },
+    "despesas_cultura_desporto": {
+      "valor": "2023",
+      "ano": "2022",
+      "unidade": "euros/hab",
+      "ods": [
+        "ODS11"
+      ]
+    },
+    "taxa_mortalidade_infantil": {
+      "valor": "2,2",
+      "ano": "2017/2021",
+      "unidade": "‰",
+      "ods": [
+        "ODS3"
+      ]
+    }
+  },
+  "ods": {
+    "ODS1": {
+      "nome": "Erradicar a Pobreza",
+      "cor": "#E5243B",
+      "indicadores": []
+    },
+    "ODS3": {
+      "nome": "Saúde de Qualidade",
+      "cor": "#4C9F38",
+      "indicadores": [
+        {
+          "chave": "taxa_natalidade",
+          "valor": "7,2",
+          "ano": "2023",
+          "unidade": "‰"
+        },
+        {
+          "chave": "populacao_65_mais",
+          "valor": "65",
+          "ano": "2023",
+          "unidade": "%"
+        },
+        {
+          "chave": "taxa_mortalidade_infantil",
+          "valor": "2,2",
+          "ano": "2017/2021",
+          "unidade": "‰"
+        }
+      ]
+    },
+    "ODS4": {
+      "nome": "Educação de Qualidade",
+      "cor": "#C5192D",
+      "indicadores": [
+        {
+          "chave": "taxa_escolarizacao",
+          "valor": "117,4",
+          "ano": "2022/2023",
+          "unidade": "%"
+        }
+      ]
+    },
+    "ODS8": {
+      "nome": "Trabalho Digno e Crescimento Económico",
+      "cor": "#A21942",
+      "indicadores": []
+    },
+    "ODS9": {
+      "nome": "Indústria, Inovação e Infraestruturas",
+      "cor": "#FD6925",
+      "indicadores": []
+    },
+    "ODS10": {
+      "nome": "Reduzir as Desigualdades",
+      "cor": "#DD1367",
+      "indicadores": [
+        {
+          "chave": "populacao_65_mais",
+          "valor": "65",
+          "ano": "2023",
+          "unidade": "%"
+        }
+      ]
+    },
+    "ODS11": {
+      "nome": "Cidades e Comunidades Sustentáveis",
+      "cor": "#FD9D24",
+      "indicadores": [
+        {
+          "chave": "populacao",
+          "valor": "179 558",
+          "ano": "2023",
+          "unidade": "habitantes"
+        },
+        {
+          "chave": "despesas_cultura_desporto",
+          "valor": "2023",
+          "ano": "2022",
+          "unidade": "euros/hab"
+        }
+      ]
+    },
+    "ODS16": {
+      "nome": "Paz, Justiça e Instituições Eficazes",
+      "cor": "#00689D",
+      "indicadores": []
+    },
+    "ODS17": {
+      "nome": "Parcerias para a Implementação",
+      "cor": "#19486A",
+      "indicadores": []
+    }
+  }
+}
